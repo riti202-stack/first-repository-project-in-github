@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+#main_head{
+    text-align: center;
+    color:rgba(128, 0, 0, 0.768);
+    background-color: lightblue;
+}
+.head_section{
+    width :400px;
+    height:300px;
+    background-color: lightcoral;
+    margin:20px 20px 20px 20px;
+    padding:20px 20px 20px 20px;
+    border:5px solid violet;
+    border-radius: 10px;
+    box-shadow: 10px 10px brown;
+
+   
+    
+   
+}
+h3{
+    text-align: center;
+    color:midnightblue;
+    margin-bottom: 10px;
+}
+.head_content{
+    font-size: 18px;
+    color:darkmagenta;
+}
+.head{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: cornflowerblue;
+    
+
+
+}
