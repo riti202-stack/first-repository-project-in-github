@@ -6,6 +6,9 @@
     text-align: center;
     color:rgba(128, 0, 0, 0.768);
     background-color: lightblue;
+    height:200px;
+   align-content: center;
+   background-image: url(bg.jpg);
 }
 .head_section{
     width :400px;
@@ -43,7 +46,7 @@
 .photo_sec{
     width:300px;
     height:400px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 .photo{
     width:300px;
@@ -133,3 +136,54 @@ table{
     margin-top: 50px;
     
 }
+
+/* footer style */
+#footer-msg{
+    font-size: 20px;
+    font-weight: 700;
+    color:bisque;
+    margin-left: 50px;
+    
+    
+}
+.foot{
+    background-color: rgba(25, 0, 0, 0.903);
+    height:300px;
+    width:100%;
+    margin-top: 0px;
+}
+.footer-item{
+    
+    display:flex;
+    justify-content: space-evenly;
+    
+    
+}
+.contact{
+    width:400px;
+    height:200px;
+    /* border:5px solid blue; */
+    font-size: 18px;
+    font-weight: 700;
+    color: blanchedalmond;
+    margin-left: 0px;
+}
+.logo{
+    width:500px;
+    height:200px;
+    /* border:10px solid lightgreen; */
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+
+.pic{
+    width:100px;
+    height:100px;
+}
+/* .anchor_pic{
+    display: flex;
+    justify-content: space-evenly;
+    
+} */
